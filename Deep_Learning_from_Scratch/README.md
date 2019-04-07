@@ -4,4 +4,4 @@
 
 如果不能打开ipynb文件，请把网址粘贴到[nbviewer](https://nbviewer.jupyter.org/)中
 
-详细方法可参考：[](https://blog.csdn.net/edogawachia/article/details/79348603)
+详细方法可参考：[博客](https://blog.csdn.net/edogawachia/article/details/79348603)
