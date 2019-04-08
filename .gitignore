@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+Deep_Learning_from_Scratch/t10k-images-idx3-ubyte.gz
+Deep_Learning_from_Scratch/t10k-labels-idx1-ubyte.gz
+Deep_Learning_from_Scratch/train-images-idx3-ubyte.gz
+Deep_Learning_from_Scratch/train-labels-idx1-ubyte.gz
+mnist.pkl
