@@ -15,7 +15,7 @@
 - 计算图与动态图机制
 - autograd与逻辑回归
 
-Week2 PyTorch数据处理
+[Week2 PyTorch数据处理](https://nbviewer.jupyter.org/github/shiqi-lu/Learn-AI/blob/master/pytorch_deepshare/week2.ipynb)
 - 数据读取机制DataLoader与Dataset
 - 数据预处理transforms模块机制
 - 二十二种transforms数据预处理方法
