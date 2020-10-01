@@ -21,7 +21,7 @@
 - 二十二种transforms数据预处理方法
 - 学会自定义transforms方法
 
-Week3 PyTorch模型搭建
+[Week3 PyTorch模型搭建](https://nbviewer.jupyter.org/github/shiqi-lu/Learn-AI/blob/master/pytorch_deepshare/week3.ipynb)
 - nn.Module与网络模型构建步骤
 - 模型容器与AlexNet构建
 - 网络层中的卷积层
