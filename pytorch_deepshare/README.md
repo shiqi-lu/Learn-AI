@@ -4,7 +4,10 @@
 - [课程页面入口](https://ai.deepshare.net/detail/p_5df0ad9a09d37_qYqVmt85/6)
 - [课程代码github](https://github.com/JansonYuan/Pytorch-Camp)
 - [作业讲解代码](https://github.com/greebear/pytorch-learning)
-
+- 课程所有代码汇总中配套数据百度网盘地址：https://pan.baidu.com/s/1mA8wSCLnKphByzvHBzc9Pw 
+提取码：g5ym
+- 课程所有课件汇总百度网盘地址：https://pan.baidu.com/s/1svt3lbDgNGixk5lKM1zfig 
+提取码：9j2f
 
 # 目录笔记
 
@@ -27,7 +30,7 @@
 - 网络层中的卷积层
 - 网络层中的池化层、全连接层和激活函数层
 
-Week4 PyTorch损失优化
+[Week4 PyTorch损失优化](https://nbviewer.jupyter.org/github/shiqi-lu/Learn-AI/blob/master/pytorch_deepshare/week4.ipynb)
 - 权值初始化
 - 损失函数（一）
 - Pytorch的14种损失函数
