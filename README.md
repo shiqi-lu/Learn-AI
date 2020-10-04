@@ -1,4 +1,4 @@
-This git repo include all AI implementation code, e.g. machine learning and deep learning model
+这个仓库存储我在AI学习路上的机器学习、深度学习的笔记和模型实现
 
 目录：
 
