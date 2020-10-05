@@ -37,7 +37,7 @@
 - 优化器optimizer的概念
 - torch.optim.SGD
 
-Week5 PyTorch训练过程
+[Week5 PyTorch训练过程](https://nbviewer.jupyter.org/github/shiqi-lu/Learn-AI/blob/master/pytorch_deepshare/week5.ipynb)
 - 学习率调整
 - TensorBoard简介与安装
 - TensorBoard使用（一）
