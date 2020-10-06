@@ -44,7 +44,7 @@
 - TensorBoard使用（二）
 - hook函数与CAM
 
-Week6 PyTorch的正则化
+[Week6 PyTorch的正则化](https://nbviewer.jupyter.org/github/shiqi-lu/Learn-AI/blob/master/pytorch_deepshare/week6.ipynb)
 - weight_decay
 - dropout
 - Batch Normalization
