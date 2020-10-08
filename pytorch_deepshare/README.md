@@ -51,7 +51,7 @@
 - Layer Normalization、Instance
 - Normalization和Group Normalization
 
-Week7 PyTorch训练技巧
+[Week7 PyTorch训练技巧](https://nbviewer.jupyter.org/github/shiqi-lu/Learn-AI/blob/master/pytorch_deepshare/week7.ipynb)
 - 模型保存与加载
 - Finetune
 - GPU的使用
